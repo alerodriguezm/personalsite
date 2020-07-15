@@ -1,0 +1,150 @@
+
+body{
+  margin:0px;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  color:#66bfbf;
+  font-size: 1.6rem;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999e;
+}
+
+hr{
+  margin:100px 35%;
+  border-top:3px solid #66bfbf;
+}
+
+a, a:visited{
+  padding:20px;
+  color: #11999e;
+  text-decoration: none;
+}
+
+a:hover{
+  color:#eaf6f6;
+}
+
+#title{
+  font-size: 5rem;
+  margin: 0px;
+  text-align: center;
+  line-height: 2;
+}
+
+#subtitle{
+  font-size: 2.5rem;
+  margin: 0px;
+  text-align: center;
+  font-weight: normal;
+}
+
+.titlecontainer{
+  display:inline-block;
+}
+
+.cloud{
+  position: absolute;
+  top:200px;
+  left:10%;
+}
+
+.cloud2{
+  margin-left: 75%;
+  margin-top:5%;
+}
+
+.city{
+  width: 100%;
+  height: 500px;
+}
+
+.top-container{
+  background-color: #eaf6f6;
+  color: #66bfbf;
+  display:inline-block;
+  font-family: 'Dancing Script', cursive;
+  height: 20%;
+}
+
+.middle-container{
+  background-color: #fcfefe;
+  /* height: 200px; */
+  width: 100%;
+  color:grey;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.bottom-container{
+  background-color: #66bfbf;
+  /* height: 200px; */
+  width: 100%;
+  padding: 20px;
+  padding-top: 40px;
+}
+
+.contact-message{
+  font-size: 1.27rem;
+  width: 40%;
+  margin:40px auto 60px;
+}
+
+.intro{
+  width:30%;
+  margin: auto;
+  font-size: 1.2rem;
+}
+
+.img-profile{
+  width:20%;
+  height:20%;
+}
+
+.img-sales{
+  width: 25%;
+  height: 25%;
+  border-radius:100px;
+  float:left;
+  margin-right: 30px;
+}
+
+.img-code{
+  width: 25%;
+  height: 25%;
+  border-radius:100px;
+  float:right;
+  margin-left: 30px;
+}
+
+
+.btn{
+  border-radius: 20px;
+  background-color: #f76b8a;
+  margin-top: 20px;
+  display:inline-block;
+  color: white;
+  text-decoration: none;
+  box-shadow: 1px 1px 20px 0 black;
+  cursor: pointer;
+}
+
+.skill-row{
+  width:50%;
+  margin:100px auto;
+  text-align: left;
+  line-height: 2;
+  font-size: 1.27rem;
+}
+
+.copyright{
+  color:#f76b8a;
+  font-size: 0.7rem;
+  padding: 20px 0 20px 0;
+}
